@@ -92,9 +92,9 @@ title('Frequency Response of FIR HPF using Blackman Window');
 
 # OUTPUT: 
 
-![Uploading image.png…]()
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/50292b70-69b4-44f5-96cf-a1b21f402dd5" />
 
-![Uploading image.png…]()
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/80d094b0-166b-44cb-b8b4-bf2ea124fb49" />
 
 <img width="756" height="718" alt="image" src="https://github.com/user-attachments/assets/fe705b14-6ebc-42e4-b91c-492108c7aa04" />
 <img width="451" height="479" alt="image" src="https://github.com/user-attachments/assets/2fcf819c-0b4f-44b6-be95-05fa0a2bd574" />
@@ -147,9 +147,12 @@ title('Frequency Response of FIR BPF using Blackman Window');
 
 # OUTPUT: 
 
-![Uploading image.png…]()
 
-![Uploading image.png…]()
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/77ba4953-0ed9-4a70-b77d-5b0451884e5e" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/4c236bb0-5981-4d06-a5e7-edf63132bd20" />
+
 
 <img width="771" height="715" alt="image" src="https://github.com/user-attachments/assets/9cd0b96f-75e7-4501-abbf-ebab3a01bdc8" />
 
@@ -202,7 +205,9 @@ title('Frequency Response of FIR BSF using Blackman Window');
 
 # OUTPUT: 
 
-![Uploading image.png…]()
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/1261450b-a787-42b3-a770-210e8f9c9efa" />
+
 
 <img width="759" height="723" alt="image" src="https://github.com/user-attachments/assets/4ad60e06-6cb7-45a0-ab42-19d1525be02f" />
 <img width="582" height="512" alt="image" src="https://github.com/user-attachments/assets/6c2419ea-1a33-4316-9cae-5d86a94da817" />
